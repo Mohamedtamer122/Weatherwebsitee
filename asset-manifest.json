@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weatherwebsitee/static/css/main.7fe62487.css",
+    "main.js": "/Weatherwebsitee/static/js/main.a1298578.js",
+    "static/media/pexels-guillaume-meurice-1591447.jpg": "/Weatherwebsitee/static/media/pexels-guillaume-meurice-1591447.644d3133a49e9c3abce6.jpg",
+    "index.html": "/Weatherwebsitee/index.html",
+    "main.7fe62487.css.map": "/Weatherwebsitee/static/css/main.7fe62487.css.map",
+    "main.a1298578.js.map": "/Weatherwebsitee/static/js/main.a1298578.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fe62487.css",
+    "static/js/main.a1298578.js"
+  ]
+}
